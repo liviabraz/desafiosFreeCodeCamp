@@ -1,4 +1,4 @@
-# Algoritmos e estruturas de dados em JavaScript ✨
+# Algoritmos e Estruturas de Dados em JavaScript ✨
 
 <h4> Plataforma: FreeCodeCamp </h4>
 
